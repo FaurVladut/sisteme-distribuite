@@ -11,7 +11,7 @@ argumentele lui, și își afișează configurația. Comunicarea în rețea vine
 
 | Membru | Grupa | Utilizator Git |
 
-| Hojda Paul-Andrei | I | Faur Vladut |
+| Faur Vladut | I | FaurVladut |
 
 
 ## Cerințe
